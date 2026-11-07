@@ -459,7 +459,7 @@ END
 
 # 👩‍💻 Author
 
-**Priya Verma**
+**Anne Jacika J**
 PayWise – Fintech Decision Intelligence System
 
 ---
